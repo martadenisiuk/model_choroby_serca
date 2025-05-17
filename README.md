@@ -1,4 +1,4 @@
-# Model choroby serca
+# Model dotyczący chorób serca
 
 ## Opis
 Celem projektu jest zidentyfikowanie czynników mających wpływ na występowanie choroby serca oraz ocena ich znaczenia. 
