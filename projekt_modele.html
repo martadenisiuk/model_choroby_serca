@@ -437,8 +437,7 @@ n &lt;- nrow(dane)
 liczby_losowe &lt;- sample(c(1:n), round(0.7*n), replace = FALSE) #replace- czy losowanie z wieloma próbami 
 df_train &lt;- dane[liczby_losowe,]
 df_test &lt;- dane[-liczby_losowe,]</code></pre>
-</div>
-<div id="Stworzenie-zbioru" class="section level4">
+<div id="stworzenie-zbioru" class="section level4">
 <h4>Stworzenie zbioru bez CigsPerDay oraz drugiego bez currentSmoker w celu porównania który model daje lepsze wyniki</h4>
 <pre class="r"><code>dfCigs_train &lt;- df_train[-c(4)]
 dfCigs_test &lt;- df_test[-c(4)]
