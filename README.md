@@ -8,4 +8,5 @@ Celem projektu jest zidentyfikowanie czynników mających wpływ na występowani
 - Analiza_wstepna.ipynb - wizualizacja zmiennych, tablica kontyngencji oraz mapa korelacji
 - projekt_modele.html - budowa i wyniki modeli za pomocą języka R (
 
-2.
+### Zczytywanie pliku .html
+W celu uzyskania dostępu do podglądu .html należy umieścić adres URL ## https://github.com/martadenisiuk/model_choroby_serca/blob/main/projekt_modele.html w odpowiednim polu na stronie https://html-preview.github.io/ .
